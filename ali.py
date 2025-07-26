@@ -1,2 +1,2 @@
 salam=hi
-
+hi=salam
