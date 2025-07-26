@@ -1,2 +1,1 @@
-salam=hi
-ali
+
